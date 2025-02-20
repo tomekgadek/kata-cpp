@@ -6,5 +6,8 @@ Myśl jak programista, Spraul Anton V. - zadania
 --------------------------------------------------------
 ![think like a programmer](./think-like-a-programmer/book/think-like-a-programmer.jpg)
 
-Rozdział...
+### Rozdziały
 
+00. Wstęp.
+01. Strategie rozwiązywania problemów.
+    + [Algorytm Luhna. Generowanie sumy kontrolnej](./think-like-a-programmer/r02/algorytm-luhna.cpp).
