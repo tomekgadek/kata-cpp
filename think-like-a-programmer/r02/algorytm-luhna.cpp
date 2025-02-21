@@ -1,7 +1,16 @@
 /*
-	algorytm-luhna.cpp: Generowanie sumy kontrolnej.
+	algorytm-luhna.cpp: Kontrola poprawności za pomocą sumy kontrolnej Luhna.
 
-	TODO: Dopisac dokumentacje: Jak dziala algorytm i to dobrze wytlumaczyc.
+	Algorytm Luhna jest powszechnie używanym systemem służącym do 
+	przeprowadzania kontroli poprawności numerów identyfikacyjnych.
+	W numerze źródłowym weź pod uwagę co drugą cyfrę i pomnóż ją
+	przez 2. Następnie dodaj wartości wszystkich cyfr (jeśli podwojona
+	wartość składa się z dwóch cyfr, potraktuj je oddzielnie). Numer
+	identyfikacyjny jest poprawny, jeśli suma jest podzielna przez 10.
+
+	Napisz program, który odczytuje numer identyfikacyjny o dowolnej
+	długości i przy użyciu algorytmu Luhna ustala, czy jest on poprawny.
+	Program musi przetworzyć dany znak przed odczytaniem następnego.
 */
 
 #include <iostream>
