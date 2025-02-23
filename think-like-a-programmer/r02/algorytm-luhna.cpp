@@ -29,7 +29,7 @@ int main(void) {
 
 	cout << "Wprowadz liczbe: ";
 	digit = cin.get();
-	
+
 	while(digit != 10) {
 		if(position % 2 == 0) {
 			oddLengthChecksum += doubleDigitValue(digit - '0');
