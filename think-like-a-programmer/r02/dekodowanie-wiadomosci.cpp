@@ -1,7 +1,10 @@
 /*
-	Dekodowanie wiadomosci.
+	dekodowanie-wiadomosci.cpp: Algorytm dekodowania zaszyfrowanej wiadomosci.
 
-	TODO: Dopisac dokumentacje, poprawic kod.
+	Zakodowana wiadomosc:
+
+	313,12312,906,3337,2529,568,1994,689,14994,221,216,11,599,18,11684,
+	0,136,1496,27,10
 */
 
 #include <iostream>
@@ -67,5 +70,3 @@ int main(void) {
 
 	return 0;
 }
-
-// Testy: 313,12312,906,3337,2529,568,1994,689,14994,221,216,11,599,18,11684,0,136,1496,27,10
