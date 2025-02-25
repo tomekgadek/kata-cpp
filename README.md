@@ -10,4 +10,5 @@ Myśl jak programista, Spraul Anton V. - zadania
 
 00. Wstęp.
 01. Strategie rozwiązywania problemów.
-    + [Algorytm Luhna. Generowanie sumy kontrolnej](./think-like-a-programmer/r02/algorytm-luhna.cpp).
+    + [Algorytm Luhna. Generowanie sumy kontrolnej](./think-like-a-programmer/r02/algorytm-luhna.cpp),
+    + [Algorytm dekodowania zaszyfrowanej wiadomości](./think-like-a-programmer/r02/dekodowanie-wiadomosci.cpp).
