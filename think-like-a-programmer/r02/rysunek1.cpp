@@ -1,5 +1,5 @@
 /*
-	rysunek1.cpp: Rezultat działania programu.
+	rysunek1.cpp: Trojkat rownoramienny.
 
 	#
 	##
