@@ -14,4 +14,5 @@ Myśl jak programista, Spraul Anton V. - zadania
     + [Algorytm dekodowania zaszyfrowanej wiadomości](./think-like-a-programmer/r02/dekodowanie-wiadomosci.cpp),
     + [Algorytm zamiany liczb dziesiętnych na binarne](./think-like-a-programmer/r02/dziesietne-na-binarne.cpp),
     + [Trójkąt równoramienny](./think-like-a-programmer/r02/rysunek1.cpp),
-    + [Trójkąt prostokątny](./think-like-a-programmer/r02/rysunek2.cpp).
+    + [Trójkąt prostokątny](./think-like-a-programmer/r02/rysunek2.cpp),
+    + [Kwadrat](./think-like-a-programmer/r02/rysunek3.cpp).
