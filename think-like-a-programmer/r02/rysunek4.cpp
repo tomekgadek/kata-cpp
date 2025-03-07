@@ -13,19 +13,24 @@ using namespace std;
 
 int main(void) {
 
-	int cols = 8;
-	for(int i = 0; i < cols; i++, cols -= 1) {
+	int space_counter = 0;
 
-		for(int j = 0; j < i; j++) {
+	for(int cols = 8; cols > 0; cols -= 2) {
+
+		for(int i = 0; i < space_counter; i++) {
 			cout << " ";
 		}
 
-		for(int j = i; j < cols; j++) {
+		for(int i = 0; i < cols; i++) {
 			cout << "#";
 		}
-		cout << "\n";
+
+		space_counter++;
+
+		cout << endl;
 	}
 
 	cout << endl;
+
 	return 0;
 }
