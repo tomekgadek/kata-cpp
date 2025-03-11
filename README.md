@@ -18,3 +18,4 @@ Myśl jak programista, Spraul Anton V. - zadania
     + [Kwadrat](./think-like-a-programmer/r02/rysunek3.cpp),
     + [Doniczka](./think-like-a-programmer/r02/rysunek4.cpp),
     + [Karo](./think-like-a-programmer/r02/rysunek5.cpp).
+02. Rozwiązywanie problemów za pomocą tablic.
