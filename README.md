@@ -17,5 +17,6 @@ Myśl jak programista, Spraul Anton V. - zadania
     + [Trójkąt prostokątny](./think-like-a-programmer/r02/rysunek2.cpp),
     + [Kwadrat](./think-like-a-programmer/r02/rysunek3.cpp),
     + [Doniczka](./think-like-a-programmer/r02/rysunek4.cpp),
-    + [Karo](./think-like-a-programmer/r02/rysunek5.cpp).
+    + [Karo](./think-like-a-programmer/r02/rysunek5.cpp),
 02. Rozwiązywanie problemów za pomocą tablic.
+    + [Funkcja, która weryfikuje czy dane są posortowane](./think-like-a-programmer/r03/czyDaneSaPosortowane.cpp).
