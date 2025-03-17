@@ -20,4 +20,5 @@ Myśl jak programista, Spraul Anton V. - zadania
     + [Karo](./think-like-a-programmer/r02/rysunek5.cpp),
 02. Rozwiązywanie problemów za pomocą tablic.
     + [Funkcja, która weryfikuje czy dane są posortowane](./think-like-a-programmer/r03/czyDaneSaPosortowane.cpp),
-    + [Funkcja, która wyznacza dominantę](./think-like-a-programmer/r03/dominanta.cpp).
+    + [Funkcja, która wyznacza dominantę](./think-like-a-programmer/r03/dominanta.cpp),
+    + [Kwartyle ocen](./think-like-a-programmer/r03/studenciSortowanie.cpp).

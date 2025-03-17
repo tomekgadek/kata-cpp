@@ -1,5 +1,5 @@
 /*
-	studenciSortowanie.cpp: Kwartyle ocen studentów.
+	studenciSortowanie.cpp: Kwartyle ocen.
 
 	Napisz program, który przetwarza tablicę obiektów 'student' oraz wyznacza
 	kwartyle ocen, to znaczy ocenę, jaka byłaby wymagana, by być równym lub
