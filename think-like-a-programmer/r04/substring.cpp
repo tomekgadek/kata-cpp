@@ -1,7 +1,15 @@
 /*
 	substring.cpp: Implementacja wlasnej funckji substring.
 
-	UWAGA! Dokończyć opis!
+	Dla dynamicznie przydzielanych łańcuchów stwórz funkcję 'substring', z
+	następującymi trzema parametrami: zmienną typu 'arrayString', liczbą
+	całkowitą oznaczającą początkową pozycję, liczbą całkowitą określającą
+	długość łańcucha. Funkcja powinna zwrócić wskaźnik do nowo przydzielonego
+	bloku pamięci zawierającego tablicę znaków. Musi ona zawierać znaki 
+	pochodzące z oryginalnego łańcucha, poczynając od określonej pozycji i o
+	podanej długości. Pierwotny łańcuch nie powinien zostać zmodyfikowany.
+	Jeśli, więc oryginalnym łańcuchem był "abcdefg", pozycją początkowoą 3, a
+	długość 4, wówczas nowy łańcuch powinien być równy "cdef".
 */
 #include <iostream>
 
