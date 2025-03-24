@@ -1,7 +1,15 @@
 /*
-	Funkcje append oraz characterAt na liscie jednokierunkowej.
+	listaZnakow.cpp: Funkcje append oraz characterAt na liscie jednokierunkowej.
 
-	Dodaj opis. Cwiczenie 4.4
+	Zmień implementację naszych łańcuchów w taki sposób, aby element location[0] 
+	tablicy przechowywał jej rozmiar (czyli pozycja location[1] powinna zawierać 
+	pierwszy faktyczny znak łańcucha), w przeciwieństwie do zastosowania 
+	ograniczającego znaku pustego. Zaimplementuj każdą z funkcji: append, 
+	'concatenate' i 'characterAt', wykorzystując w miarę możliwości sposób 
+	zapamiętania informacji o rozmiarze. Ponieważ nie będziemy już wykorzystywać 
+	znaku pustego oczekiwanego przez standardowy strumień wyjściowy, musisz 
+	napisać własną funkcję 'output', która będzie przetwarzać łańcuch, 
+	wyświetlając jego elementy.
 */
 #include <iostream>
 
