@@ -25,4 +25,5 @@ Myśl jak programista, Spraul Anton V. - zadania
     + [Kwartyle ocen](./think-like-a-programmer/r03/studenciSortowanie.cpp).
 04. Rozwiązywanie problemów za pomocą wskaźników i pamięci dynamicznej.
     + [Implementacja wlasnej funckji substring](./think-like-a-programmer/r04/substring.cpp),
-    + [Implementacja własnej funckji replaceString](./think-like-a-programmer/r04/replaceString.cpp).
+    + [Implementacja własnej funckji replaceString](./think-like-a-programmer/r04/replaceString.cpp),
+    + [Funkcje append oraz characterAt na liscie jednokierunkowej](./think-like-a-programmer/r04/listaZnakow.cpp).
