@@ -1,5 +1,5 @@
 /*
-	substring.cpp: Implementacja wlasnej funckji substring.
+	substring.cpp: Implementacja wlasnej funkcji substring.
 
 	Dla dynamicznie przydzielanych łańcuchów stwórz funkcję 'substring', z
 	następującymi trzema parametrami: zmienną typu 'arrayString', liczbą

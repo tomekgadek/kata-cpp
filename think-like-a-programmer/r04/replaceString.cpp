@@ -1,5 +1,5 @@
 /*
-	replaceString.cpp: Implementacja własnej funckji replaceString.
+	replaceString.cpp: Implementacja własnej funkcji replaceString.
 
 	target:      ab
 	replaceText: xyz
